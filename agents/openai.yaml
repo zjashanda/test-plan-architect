@@ -1,0 +1,3 @@
+display_name: Test Plan Architect
+short_description: 基于 lstest 构建并校验测试方案
+default_prompt: 根据任务需求构建可预检的 AITest profilepack。
